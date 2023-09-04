@@ -1,0 +1,9 @@
+L'objectif de l’analyse est de construire un modèle permettant de prévoir la croissance économique en 
+utilisant l’indicateur de confiance de l’industrie calculé par la Commission européenne à partir des 
+enquêtes mensuelles de conjoncture. Les enquêtes de conjoncture sont réalisées chaque mois auprès des 
+chefs d’entreprise pour recenser leur opinion vis-à-vis de l’activité de leur entreprise. Le questionnaire 
+est de nature qualitative. Parmi les questions, les enquêté·es doivent par exemple indiquer si leur carnet 
+de commande est supérieur à la normale, normal ou inférieur à la normale, ou bien évaluer comment 
+leur production va évoluer au cours des prochains mois. L’indicateur synthétique représente donc une 
+mesure du climat des affaires. L’objectif de cet exercice est d’étudier si cet indicateur peut être utilisé 
+pour améliorer les prévisions économiques de court terme
